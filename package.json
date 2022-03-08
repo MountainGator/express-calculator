@@ -1,0 +1,14 @@
+{
+  "name": "express-calculator",
+  "version": "1.0.0",
+  "description": "express calculator exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.test.js"
+  },
+  "author": "Luke",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
